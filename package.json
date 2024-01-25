@@ -1,0 +1,18 @@
+{
+  "name": "clarity_trasporter",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Michael (IntegralPilot)",
+  "license": "All Rights Reserved",
+  "private": true,
+  "dependencies": {
+    "@gmod/bam": "^2.0.0",
+    "busboy": "^1.6.0"
+  },
+  "scripts": {
+    "prod": "node src/index.js",
+    "dev": "node src/index.js --enable-dev",
+    "make-samtools": "node src/make-samtools.js"
+  },
+  "packageManager": "yarn@4.0.2"
+}

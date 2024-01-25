@@ -1,0 +1,84 @@
+[
+    {
+        "abbreviation": "APOE",
+        "fullName": "Apolipoprotein E",
+        "loci": [
+            {
+                "chr": "chr19",
+                "pos": 44908684,
+                "name": "rs429358"
+            },
+            {
+                "chr": "chr19",
+                "pos": 44908822,
+                "name": "rs7412"
+            }
+        ]
+    },
+    {
+        "abbreviation": "EPHA1-AS1",
+        "fullName": "EPH receptor A1",
+        "loci": [
+            {
+                "chr": "chr7",
+                "pos": 143412046,
+                "name": "rs11767557"
+            }
+        ]
+    },
+    {
+        "abbreviation": "CLU",
+        "fullName": "Clusterin",
+        "loci": [
+            {
+                "chr": "chr8",
+                "pos": 27607002,
+                "name": "rs11136000"
+            }
+        ]
+    },
+    {
+        "abbreviation": "CR1",
+        "fullName": "Complement component (3b/4b) receptor 1",
+        "loci": [
+            {
+                "chr": "chr1",
+                "pos": 207518704,
+                "name": "rs6656401"
+            }
+        ]
+    },
+    {
+        "abbreviation": "BIN1",
+        "fullName": "Bridging integrator 1",
+        "loci": [
+            {
+                "chr": "chr2",
+                "pos": 127137039,
+                "name": "rs744373"
+            }
+        ]
+    },
+    {
+        "abbreviation": "CD33",
+        "fullName": "CD33 molecule",
+        "loci": [
+            {
+                "chr": "chr19",
+                "pos": 51224706,
+                "name": "rs3865444"
+            }
+        ]
+    },
+    {
+        "abbreviation": "MS4A6A",
+        "fullName": "Membrane-spanning 4-domains - subfamily A - member 6A",
+        "loci": [
+            {
+                "chr": "chr11",
+                "pos": 60171834,
+                "name": "rs610932"
+            }
+        ]
+    }
+]
